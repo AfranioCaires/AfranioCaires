@@ -1,7 +1,5 @@
 ### Hi, I'm Afranio Caires
 
-![datsfilipe](https://komarev.com/ghpvc/?username=datsfilipe&color=22272e)
-
 <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api?username=AfranioCaires&show_icons=true&border_radius=5&theme=github_dark_dimmed" alt="datsfilipe's stats"/>
 
 <!-- :mailbox_with_mail: Reach me at <a href="mailto:contato@datsfilipe.dev" target="_blank">contato@datsfilipe.dev  or see my <a href="https://datsfilipe.dev/link3" target="_blank">other links</a>
