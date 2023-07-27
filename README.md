@@ -1,9 +1,10 @@
 ### Hi, I'm Afranio Caires
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AfranioCaires&show_icons=true&border_radius=5&theme=github_dark_dimmed" alt="AfranioCaires's stats"/>
-
-- :briefcase: I have experience working with **JavaScript, ReactJS, Typescript, and NextJs** applications
+- :zap: Software engeneering student
 - :books: I'm currently learning C++
+
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AfranioCaires&show_icons=true&border_radius=5&theme=github_dark_dimmed" alt="AfranioCaires's stats"/>
 
 ### What I Use :computer:
 
