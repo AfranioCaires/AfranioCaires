@@ -1,6 +1,6 @@
 ### Hi, I'm Afranio Caires
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?
+<img align="right" height="170em" src="https://github-readme-stats.vercel.app/api?username=AfranioCaires&show_icons=true&border_radius=5&theme=github_dark_dimmed" alt="AfranioCaires's stats"/>
 
 - :briefcase: I have experience working with **JavaScript, ReactJS, Typescript, and NextJs** applications
 - :books: I'm currently learning C++
@@ -14,7 +14,6 @@
 | Frontend | ![React](https://img.shields.io/badge/-React-22272e?logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-22272e?logo=next.js) ![Vite](https://img.shields.io/badge/-Vite-22272e?logo=vite) ![Redux](https://img.shields.io/badge/-Redux-22272e?logo=redux&logoColor=ba8fff) |
 | Backend | ![Node.js](https://img.shields.io/badge/-Node.js-22272e?logo=node.js) ![Docker](https://img.shields.io/badge/-Docker-22272e?logo=docker) |
 | Styling | ![Sass](https://img.shields.io/badge/-Sass-22272e?logo=sass) ![Styled Components](https://img.shields.io/badge/-Styled%20Components-22272e?logo=styled-components) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-22272e?logo=tailwind-css) ![Uno Css](https://img.shields.io/badge/-Uno%20CSS-22272e?logo=unocss) |
-| Test Utilities | ![Jest](https://img.shields.io/badge/-Jest-22272e?logo=jest) ![Testing Library](https://img.shields.io/badge/-Testing%20Library-22272e?logo=testing-library) ![Vitest](https://img.shields.io/badge/-Vitest-22272e?logo=vitest) |
 | Deployment | ![Vercel](https://img.shields.io/badge/-Vercel-22272e?logo=vercel) ![Netlify](https://img.shields.io/badge/-Netlify-22272e?logo=netlify) |
 | Package Managers | ![Pnpm](https://img.shields.io/badge/-Pnpm-22272e?logo=pnpm) ![Yarn](https://img.shields.io/badge/-Yarn-22272e?logo=yarn) ![NPM](https://img.shields.io/badge/-NPM-22272e?logo=npm) |
 | Miscellaneous | ![Linux](https://img.shields.io/badge/-Linux-22272e?logo=linux) ![Markdown](https://img.shields.io/badge/-Markdown-22272e?logo=markdown) ![Mdx](https://img.shields.io/badge/-Mdx-22272e?logo=mdx) 
