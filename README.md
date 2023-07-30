@@ -1,16 +1,12 @@
 ### Hi, I'm Afranio Caires
 
-- :zap: Software engeneering student
-- :books: I'm currently learning C++
-
-
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AfranioCaires&show_icons=true&border_radius=5&theme=github_dark_dimmed" alt="AfranioCaires's stats"/>
 
 ### What I Use :computer:
 
 | Technology Group | Technologies |
 | :---: | :---: |
-| Languages | ![Javascript](https://img.shields.io/badge/-Javascript-22272e?logo=javascript) ![Typescript](https://img.shields.io/badge/-Typescript-22272e?logo=typescript) |
+| Languages | ![Javascript](https://img.shields.io/badge/-Javascript-22272e?logo=javascript) ![Typescript](https://img.shields.io/badge/-Typescript-22272e?logo=typescript) ![Python](https://img.shields.io/badge/-Python-22272e?logo=python) ![C++](https://img.shields.io/badge/-C++-22272e?logo=cplusplus)|
 | Version Control | ![Git](https://img.shields.io/badge/-Git-22272e?logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-22272e?logo=github) |
 | Frontend | ![React](https://img.shields.io/badge/-React-22272e?logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-22272e?logo=next.js) ![Vite](https://img.shields.io/badge/-Vite-22272e?logo=vite) ![Redux](https://img.shields.io/badge/-Redux-22272e?logo=redux&logoColor=ba8fff) |
 | Backend | ![Node.js](https://img.shields.io/badge/-Node.js-22272e?logo=node.js) ![Docker](https://img.shields.io/badge/-Docker-22272e?logo=docker) |
