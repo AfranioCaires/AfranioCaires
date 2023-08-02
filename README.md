@@ -1,8 +1,8 @@
 ### Hi, I'm Afranio Caires
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AfranioCaires&show_icons=true&border_radius=5&theme=github_dark_dimmed" alt="AfranioCaires's stats"/>
+![Afranio's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfranioCaires&show_icons=true&theme=transparent)
 
-### What I Use :computer:
+### Stacks ⚡:
 
 | Technology Group | Technologies |
 | :---: | :---: |
