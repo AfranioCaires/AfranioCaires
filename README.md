@@ -1,8 +1,8 @@
-### Hi, I'm Afranio Caires
+### Hi, I'm Afranio Caires 👋
 
 ![Afranio's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfranioCaires&show_icons=true&theme=transparent)
 
-### Stacks ⚡:
+### Stacks ⚡
 
 | Technology Group | Technologies |
 | :---: | :---: |
