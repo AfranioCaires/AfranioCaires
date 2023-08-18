@@ -1,5 +1,4 @@
 ### Hi, I'm Afranio Caires 👋
-I am a full-stack web developer passionate about JavaScript. I work on both front-end and back-end, creating efficient and elegant solutions for various demands.
 
 ![AfranioCaires's Stats](https://github-readme-stats.vercel.app/api?username=AfranioCaires&theme=default&show_icons=true&hide_border=true&count_private=true)
 ### Stacks ⚡
