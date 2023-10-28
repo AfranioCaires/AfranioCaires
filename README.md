@@ -1,13 +1,26 @@
+
 ### Hi, I'm Afranio Caires <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="25" height="25" />
-I'm a front-end developer with a passion for creating beautiful and intuitive user interfaces.
 
-In my free time, I enjoy contributing to open-source projects and staying up-to-date with the latest trends and technologies in web development.
+<p align="justify"> I'm a front-end developer with a passion for creating beautiful and intuitive user interfaces.
+<br> 
 
+In my free time, I enjoy contributing to open-source projects and staying up-to-date with the latest trends and technologies in web development. Passionate about arts and technology, some of my hobbies are games, watching, reading.
+<br>
 Feel free to check out my repositories and let me know if you have any questions or feedback. Thanks for stopping by!
+</p>
 
+<h3 align="left">Connect with me</h3>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFC100&color:FFF)](https://www.linkedin.com/in/afraniocaires/)
+[![Instagram](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=FFC100&color:FFF)](mailto:afraniomcaires@gmail.com)
+
+<h3 align="left">GitHub Stats</h3>
+
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=afraniocaires&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FFc100&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FFc100&theme=jolly)
+<!--[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elidianaandrade&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/elidianaandrade/github-readme-stats)-->
+<br>
 <!-- [AfranioCaires's Stats](https://github-readme-stats.vercel.app/api?username=AfranioCaires&theme=default&show_icons=true&hide_border=true&count_private=true) 
 ### Stacks <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" />
-
 | Technology Group | Technologies |
 | :---: | :---: |
 | Languages | ![Javascript](https://img.shields.io/badge/-Javascript-22272e?logo=javascript) ![Typescript](https://img.shields.io/badge/-Typescript-22272e?logo=typescript) ![Python](https://img.shields.io/badge/-Python-22272e?logo=python) ![C++](https://img.shields.io/badge/-C++-22272e?logo=cplusplus)  ![php](https://img.shields.io/badge/-PHP-22272e?logo=php)|
