@@ -3,8 +3,7 @@
 ### Hi, I'm Afranio Caires <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="25" height="25" />
 
 <p align="justify"> I'm a front-end developer with a passion for creating beautiful and intuitive user interfaces.
-<br> 
-
+<br>
 In my free time, I enjoy contributing to open-source projects and staying up-to-date with the latest trends and technologies in web development. Passionate about arts and technology, some of my hobbies are games, watching, reading.
 <br>
 Feel free to check out my repositories and let me know if you have any questions or feedback. Thanks for stopping by!
