@@ -9,7 +9,7 @@
 <h3>Tech Stack</h3>
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,bun,react,nextjs,astro,vite,tailwind,nestjs,express,prisma,graphql,postgresql,mongodb,mysql,redis,docker,aws,gcp,jest,vitest" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,cs,dotnet,nodejs,bun,react,nextjs,astro,vite,tailwind,nestjs,express,prisma,graphql,postgresql,mongodb,mysql,redis,docker,aws,gcp,jest,vitest" />
   </a>
 </p>
 
