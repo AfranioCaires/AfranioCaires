@@ -15,3 +15,5 @@
 
 <h3>Connect with me</h3>
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00BFFF&color:FFF)](https://www.linkedin.com/in/afraniocaires/)
+[![Instagram](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=00BFFF&color:FFF)](mailto:afraniomcaires@gmail.com)
