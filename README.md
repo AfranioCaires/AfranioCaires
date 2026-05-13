@@ -1,19 +1,39 @@
-
-### Hi, I'm Afranio Caires <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="25" height="25" />
-
-<p align="justify">I'm a Software Engineering student and a fullstack developer specialized in the JavaScript ecosystem.</p>
-<p align="justify"> 
- Take a look at my repositories to see what I’ve been working on. If you have any questions or feedback, feel free to reach out.
-<p align="justify">Thanks for visiting!</p>
-
-<h3>Tech Stack</h3>
-<p align=center>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,cs,dotnet,nodejs,bun,react,nextjs,astro,vite,tailwind,nestjs,express,prisma,graphql,postgresql,mongodb,mysql,redis,docker,aws,gcp,jest,vitest" />
-  </a>
-</p>
-
-<h3>Connect with me</h3>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00BFFF&color:FFF)](https://www.linkedin.com/in/afraniocaires/)
-[![Instagram](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=00BFFF&color:FFF)](mailto:afraniomcaires@gmail.com)
+<table>
+  <tr>
+    <td  width="400">
+      <img src="./the-inferno-canto-8-1.avif" width="400" alt="Inferno Canto VIII - Gustave Doré">
+    </td>
+    <td valign="top">
+      <h1>Afranio Caires</h1>
+      <p>Software engineer focused on backend systems and
+        software architecture. Work spans web development, distributed systems, APIs and databases.
+        Main interests include developer tooling and software architecture.
+      </p>
+      <h2>Areas of Interest</h2>
+      <ul>
+        <li>Developer tooling</li>
+       <li>API design and protocols</li>
+        <li>Distributed systems and backend architecture</li>
+       <li>Observability and performance engineering</li>
+      </ul>
+      <h2>Technologies</h2>
+     <!-- <p>My stack revolves around the TypeScript ecosystem, from frontend to backend.</p>
+     <p align=center>
+      <a href="https://skillicons.dev">
+       <img src="https://skillicons.dev/icons?i=typescript,nodejs,bun,react,nextjs,tailwind,nestjs,elysia,prisma,graphql,postgresql,redis,docker,aws,vitest" />
+      </a>
+     </p> -->
+      <ul>
+        <li>Languages: TypeScript, Go</li>
+        <li>Frontend: React, Next.js, TanStack, Tailwind CSS</li>
+        <li>Backend: Node.js, Fastify, NestJS, Elysia,  Prisma, Drizzle</li>
+        <li>Infra/Tools: Docker, PostgreSQL, Redis</li>
+      </ul>
+      <h2>Contact</h2>
+      <ul>
+        <li>LinkedIn: <a href="https://www.linkedin.com/in/afraniocaires/">Afranio Caires</a></li>
+        <li>Website: <a href="https://afraniocaires.dev">https://afraniocaires.dev</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
