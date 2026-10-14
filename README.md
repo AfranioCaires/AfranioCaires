@@ -9,7 +9,7 @@
 
   <samp>
     about me:<br>
-    - software engineer focused on backend systems and software architecture<br>
+    - software engineer focused on fullstack systems and software architecture<br>
     - experience with web development, distributed systems, APIs and databases<br>
     - interested in developer tooling and software architecture<br>
     <br>
