@@ -20,14 +20,13 @@
     <br>
     tech stack:<br>
     <br>
-    languages:<br>
-    > typescript, go, java<br>
-    <br>
     frontend:<br>
     > react, next.js, tanstack, tailwind<br>
     <br>
     backend:<br>
-    > node.js<br>
+    > typescript, node.js, fastify, nestjs<br>
+    > go, gin<br>
+    > java<br>
     <br>
     databases & caching:<br>
     > postgresql, redis<br>
@@ -40,7 +39,7 @@
     <br>
     contact:<br>
     - <a href="https://www.linkedin.com/in/afraniocaires/">linkedin</a><br>
-    <!-- - <a href="https://afraniocaires.dev">website</a><br> !-->
+    - <a href="https://afraniocaires.dev">website</a><br>
   </samp>
 </p>
 
