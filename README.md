@@ -10,30 +10,37 @@
   <samp>
     about me:<br>
     - software engineer focused on fullstack systems and software architecture<br>
-    - experience with web development, distributed systems, APIs and databases<br>
-    - interested in developer tooling and software architecture<br>
+    - experienced in building web applications, APIs, and backend services<br>
+    - passionate about designing maintainable, scalable, and reliable software<br>
     <br>
     areas of interest:<br>
-    > developer tooling<br>
-    > api design and protocols<br>
-    > distributed systems and backend architecture<br>
-    > observability and performance engineering<br>
+    > software architecture & distributed systems<br>
+    > api design & developer tooling<br>
+    > observability & performance engineering<br>
     <br>
-    langs:<br>
-    > typescript, go.<br>
+    tech stack:<br>
+    <br>
+    languages:<br>
+    > typescript, go, java<br>
     <br>
     frontend:<br>
-    > react, next.js, tanstack, tailwind css.<br>
+    > react, next.js, tanstack, tailwind<br>
     <br>
     backend:<br>
-    > node.js, fastify, nestjs, elysia, prisma, drizzle.<br>
+    > node.js<br>
     <br>
-    infra & tools:<br>
-    > docker, postgresql, redis.<br>
+    databases & caching:<br>
+    > postgresql, redis<br>
+    <br>
+    messaging:<br>
+    > kafka, rabbitmq<br>
+    <br>
+    infrastructure:<br>
+    > docker, kubernetes<br>
     <br>
     contact:<br>
     - <a href="https://www.linkedin.com/in/afraniocaires/">linkedin</a><br>
-    - <a href="https://afraniocaires.dev">website</a><br>
+    <!-- - <a href="https://afraniocaires.dev">website</a><br> !-->
   </samp>
 </p>
 
